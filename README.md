@@ -6,19 +6,21 @@ Notes :-
       
 Referance
 Animated CSS, JavaScript and HTML Calendar 
-      -From
+
+      From
       
-      - https://www.bypeople.com/animated-css-javascript-html-calendar/
+        https://www.bypeople.com/animated-css-javascript-html-calendar/
       
-      - https://codepen.io/lonekorean/pen/doXjJG
+        https://codepen.io/lonekorean/pen/doXjJG
 
 JavaScript Calculator
-      -From
+
+       From
       
-      - https://codepen.io/giana/pen/GJMBEv
+        https://codepen.io/giana/pen/GJMBEv
 
 Java Script Countdown
 
-      -From
+       From
       
-      - https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+       https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
